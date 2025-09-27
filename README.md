@@ -181,7 +181,7 @@ client := licensechain.NewClient(&licensechain.Config{
     APIKey:  "your-api-key",
     AppName: "your-app-name",
     Version: "1.0.0",
-    BaseURL: "https://api.licensechain.com", // Optional
+    BaseURL: "https://api.licensechain.app", // Optional
 })
 ```
 
@@ -287,7 +287,7 @@ export LICENSECHAIN_APP_NAME=your-app-name
 export LICENSECHAIN_APP_VERSION=1.0.0
 
 # Optional
-export LICENSECHAIN_BASE_URL=https://api.licensechain.com
+export LICENSECHAIN_BASE_URL=https://api.licensechain.app
 export LICENSECHAIN_DEBUG=true
 ```
 
@@ -298,7 +298,7 @@ client := licensechain.NewClient(&licensechain.Config{
     APIKey:     "your-api-key",
     AppName:    "your-app-name",
     Version:    "1.0.0",
-    BaseURL:    "https://api.licensechain.com",
+    BaseURL:    "https://api.licensechain.app",
     Timeout:    30 * time.Second, // Request timeout
     Retries:    3,                // Number of retry attempts
     Debug:      false,            // Enable debug logging
@@ -451,10 +451,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Documentation**: [https://docs.licensechain.com/go](https://docs.licensechain.com/go)
+- **Documentation**: [https://docs.licensechain.app/go](https://docs.licensechain.app/go)
 - **Issues**: [GitHub Issues](https://github.com/LicenseChain/LicenseChain-Go-SDK/issues)
 - **Discord**: [LicenseChain Discord](https://discord.gg/licensechain)
-- **Email**: support@licensechain.com
+- **Email**: support@licensechain.app
 
 ## 🔗 Related Projects
 
