@@ -1,9 +1,7 @@
 package client
 
 import (
-	"encoding/json"
 	"fmt"
-	"time"
 )
 
 // WebhookHandler handles webhook events
