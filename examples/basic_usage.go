@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/licensechain/LicenseChain-Go-SDK/client"
+	"github.com/licensechain/licensechain-go-sdk/client"
 )
 
 func main() {
