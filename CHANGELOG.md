@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.2] - 2026-10-10
+
+- Bumped `github.com/MicahParks/keyfunc/v3` to 3.8.2 (Dependabot); module `go` directive is now `1.25.0`.
+- CI matrix updated to Go 1.25 / 1.26 / 1.27; goreleaser job uses Go 1.27.
+- GitHub Actions bumped to `actions/checkout@v7`, `actions/setup-go@v7`, `goreleaser/goreleaser-action@v7`.
+
 All notable changes to this SDK are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
