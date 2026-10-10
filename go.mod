@@ -1,6 +1,6 @@
 module github.com/licensechain/licensechain-go-sdk
 
-go 1.21
+go 1.23
 
 require (
 	github.com/MicahParks/keyfunc/v3 v3.8.0
