@@ -1,8 +1,10 @@
 # LicenseChain Go SDK
 
 [![License](https://img.shields.io/badge/license-Elastic--2.0-blue.svg)](LICENSE)
-[![Go](https://img.shields.io/badge/Go-1.19+-blue.svg)](https://golang.org/)
+[![Go](https://img.shields.io/badge/Go-1.19+-blue.svg)](https://go.dev/)
+[![Go Reference](https://pkg.go.dev/badge/github.com/licensechain/licensechain-go-sdk.svg)](https://pkg.go.dev/github.com/licensechain/licensechain-go-sdk)
 [![Go Report Card](https://goreportcard.com/badge/github.com/LicenseChain/LicenseChain-Go-SDK)](https://goreportcard.com/report/github.com/LicenseChain/LicenseChain-Go-SDK)
+[![CI](https://github.com/LicenseChain/LicenseChain-Go-SDK/actions/workflows/ci.yml/badge.svg)](https://github.com/LicenseChain/LicenseChain-Go-SDK/actions/workflows/ci.yml)
 
 Official Go SDK for LicenseChain - Secure license management for Go applications.
 
