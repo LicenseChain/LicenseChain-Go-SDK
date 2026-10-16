@@ -4,10 +4,10 @@
 
 - Keep default base URL and normalization aligned with `https://api.licensechain.app/v1`.
 - Maintain `VerifyLicenseWithDetails` and JWKS helper stability.
-- Keep runtime behavior aligned with Core API contract updates.
+- Keep module/toolchain matrix current with supported Go releases.
 
 ## Next Operational Tasks
 
-- Re-run conformance after verify/JWKS contract updates.
-- Keep examples and README links synced with docs entrypoint.
-- Record behavior/dependency updates in `CHANGELOG.md`.
+- Re-run conformance checks after Core API verify/JWKS contract updates.
+- Keep docs and examples synchronized with https://docs.licensechain.app/en/sdk.
+- Record release-impacting changes in `CHANGELOG.md`; develop experiments on `dev`, release from `main`.
