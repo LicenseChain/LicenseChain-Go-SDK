@@ -1,6 +1,6 @@
 # LicenseChain Go SDK
 
-[![License](https://img.shields.io/badge/license-Elastic--2.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.19+-blue.svg)](https://go.dev/)
 [![Go Reference](https://pkg.go.dev/badge/github.com/licensechain/licensechain-go-sdk.svg)](https://pkg.go.dev/github.com/licensechain/licensechain-go-sdk)
 [![Go Report Card](https://goreportcard.com/badge/github.com/LicenseChain/LicenseChain-Go-SDK)](https://goreportcard.com/report/github.com/LicenseChain/LicenseChain-Go-SDK)
@@ -471,7 +471,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 📄 License
 
-This project is licensed under the Elastic License 2.0 (ELv2) — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License (ELv2) — see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
